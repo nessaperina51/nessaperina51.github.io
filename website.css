@@ -5,3 +5,7 @@ background-image: url("https://i.pinimg.com/originals/36/39/83/363983e74af9626e1
 -o-background-size: stretch;
 background-size: stretch;
 }
+
+body {
+  font-size: 30px;
+}
